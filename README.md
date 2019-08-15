@@ -11,4 +11,4 @@ I created this project to practice my skills with react.
 ## Technologie
 The technologies used for this project is React.
 
-Thanks for reading.
+Thanks for reading, Olivier.
